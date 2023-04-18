@@ -138,4 +138,13 @@
 ![1](https://static.wixstatic.com/media/1fead1_37a43144149046549d804100b8045c76~mv2.png/v1/fill/w_144,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SHIELDGATE_VI%20(1).png)  ![2](https://static.wixstatic.com/media/1fead1_a12ea1cab42240ff9529f2bc771fb3c2~mv2.png/v1/fill/w_167,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Security365%2B(1).png)  💻[홈페이지 바로가기]()    ⬆️ [맨 위로 올라가기]() ⬆️
 
 
-<!-- img -->
+<!-- testing -->
+
+```uml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+```
+
