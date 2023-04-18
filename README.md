@@ -37,7 +37,7 @@
 + 불확실한 환경에서의 사용자 데이터의  'Key Vault' 를 제공하여 데이터 식별과 관리를 가능하게 합니다.
 + 또한, Microsoft 365의 Teams, OneDrive와 같은 서비스에서 암호화 상태를 유지하여 동료와 안전하게 협업할 수 있습니다.
 
-1.**문서 암호화** : <img src = "https://static.wixstatic.com/media/ea85dc_7312379e69da4283a4abe02fdbca0415~mv2.png/v1/fill/w_149,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SHIELDrive_logo_vertical.png" height="25px" align="center">
+1.**문서 암호화** : <a href="https://www.shieldrive.com/"><img src = "https://static.wixstatic.com/media/ea85dc_7312379e69da4283a4abe02fdbca0415~mv2.png/v1/fill/w_149,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SHIELDrive_logo_vertical.png" height="25px" align="center"> </a>
 
 + Microsoft 365 파일 암호화
 + 암호화 문서의 공동 편집
@@ -139,12 +139,4 @@
 
 
 <!-- testing -->
-
-```uml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-```
 
